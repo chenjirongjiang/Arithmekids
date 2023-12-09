@@ -5,7 +5,7 @@ The latter is the main story mode, in which kids can travel through 5 worlds and
 Multiplayer mode enables a child to play with one other friend. 
 Timer mode contains three difficulty levels and challenges you to answer as many questions as possible in 60 seconds.
 The entire game is written in Python, using its module Pygame. In order to run the code, it is necessary to download Pygame.
-Credit to all developers: Siem Jongsma (siemjongsma), Chen Ji Rong 'Jack' Jiang (chenjirongjiang), Nikki Rademaker (nikki5386), Amarise Silié ([@amarisesilie](https://github.com/amarisesilie)) and Yanna Smid (yannasmid).
+Credits to all developers: Siem Jongsma ([@siemjongsma](https://github.com/siemjongsma)), Chen Ji Rong 'Jack' Jiang ([@chenjirongjiang](https://github.com/chenjirongjiang)), Nikki Rademaker ([@nikki5386](https://github.com/Nikki5386)), Amarise Silié ([@amarisesilie](https://github.com/amarisesilie)) and Yanna Smid ([@yannasmid](https://github.com/YannaSmid)).
 
 ## Installing requirements
 You are encouraged to use a virtual environment. Install the required dependecies with the following command:
